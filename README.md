@@ -143,3 +143,12 @@ so sanh
 1. Clone repository từ link git.
 2. Cài đặt dependencies: `npm install`.
 3. Chạy ứng dụng: `npx react-native run-android` hoặc `npx react-native run-ios`.
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7de55c96-370f-4138-898b-fe2140058066)
+![image](https://github.com/user-attachments/assets/22564c82-1eff-45ee-9b19-c850415a61af)
+
